@@ -1,2 +1,2 @@
 # HayatiFash---Ethnic-Modern-Fashion-Hub_project
-A vibrant e-commerce platform blending traditional Indian elegance with modern western trends, offering curated ethnic wear, trendy apparel, and exclusive discounts in a bold orange-themed interface.
+HayatiFash is a responsive e-commerce website template focused on showcasing traditional Indian attire and contemporary western fashion. Built with HTML and CSS, this frontend project features a vibrant orange-themed UI with a clean layout, designed to highlight diverse clothing collections including sarees, salwar kameez, cargo pants, and trendy t-shirts.
